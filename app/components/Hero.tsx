@@ -43,7 +43,7 @@ export default function Hero() {
 
         <div className="hidden lg:block">
           <img
-            src="https://images.unsplash.com/photo-1587202372775-e229f172b9d7"
+            src="/images/Gaming PC.jpg"
             alt="Gaming PC"
             className="rounded-3xl"
           />
