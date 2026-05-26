@@ -1,4 +1,4 @@
-import { Camera } from "lucide-react";
+import { Camera, Music } from "lucide-react";
 
 export default function Footer() {
   return (
@@ -23,7 +23,7 @@ export default function Footer() {
             target="_blank"
             className="hover:text-white"
           >
-            TikTok
+            <Music />
           </a>
         </div>
       </div>
