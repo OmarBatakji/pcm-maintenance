@@ -12,7 +12,7 @@ export default function About() {
             <div className="absolute lg:-bottom-10 lg:-right-10 mt-6 lg:mt-0 bg-zinc-900 border border-zinc-800 rounded-2xl p-3 shadow-2xl w-56">
                 
                 <img
-                src="/images/diploma.jpg"
+                src="/certificates/diploma.jpg"
                 alt="Computer Engineering Diploma"
                 className="rounded-xl mb-3"
                 />
