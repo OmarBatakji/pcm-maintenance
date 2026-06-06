@@ -10,9 +10,6 @@ import {
   Monitor,
 } from "lucide-react";
 
-const [openService, setOpenService] =
-  useState<string | null>(null);
-
 const services = [
   {
     icon: Wrench,
@@ -55,6 +52,8 @@ const services = [
 ];
 
 export default function Services() {
+  const [openService, setOpenService] =
+    useState<string | null>(null);
   return (
     <section
       id="services"
