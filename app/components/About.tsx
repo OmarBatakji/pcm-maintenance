@@ -9,26 +9,7 @@ export default function About() {
                 alt="Founder of PCM Maintenance"
                 className="rounded-3xl border border-zinc-800 shadow-2xl"
             />
-            <div className="absolute lg:-bottom-10 lg:-right-10 mt-6 lg:mt-0 bg-zinc-900 border border-zinc-800 rounded-2xl p-3 shadow-2xl w-56">
-                
-                <img
-                src="/certificates/diploma.jpg"
-                alt="Computer Engineering Diploma"
-                className="rounded-xl mb-3"
-                />
-
-                <p className="text-sm text-zinc-300 font-semibold">
-                Computer Engineering Diploma
-                </p>
-
-                <div className="flex items-center gap-2 mt-2">
-                <div className="w-2 h-2 rounded-full bg-green-500" />
-
-                <p className="text-xs text-zinc-500">
-                    Verified Technical Background
-                </p>
-                </div>
-            </div>
+            
         </div>
 
         <div>
@@ -96,11 +77,11 @@ export default function About() {
 
             <div className="bg-zinc-900 border border-zinc-800 rounded-2xl p-4">
               <h3 className="text-3xl font-bold text-red-500">
-                CE
+                Computer Engineering
               </h3>
 
               <p className="text-zinc-400 mt-2">
-                Computer Engineering
+                Major
               </p>
             </div>
           </div>
