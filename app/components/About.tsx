@@ -64,7 +64,7 @@ export default function About() {
 
             </div>
           </div>
-          <div className="grid grid-cols-2 gap-4">
+          <div className="grid grid-cols-2 gap-4 mt-8">
             <div className="bg-zinc-900 border border-zinc-800 rounded-2xl p-4">
               <h3 className="text-3xl font-bold text-blue-500">
                 5+
