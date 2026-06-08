@@ -20,7 +20,7 @@ export default function Hero() {
           <p className="mt-6 text-zinc-400 text-lg max-w-xl">
             PCM Maintenance provides professional PC repair,
             laptop troubleshooting, upgrades, and custom builds
-            all around Beirut.
+            all around Beirut and Barja.
           </p>
 
           <div className="flex gap-4 mt-8">

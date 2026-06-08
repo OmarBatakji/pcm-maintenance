@@ -28,7 +28,7 @@ export default function About() {
             I'm a Computer Engineer specialized in PC and laptop troubleshooting,
             maintenance, upgrades, and custom gaming PC builds.
             PCM Maintenance was created to provide convenient
-            on-site technical support across Beirut, allowing
+            on-site technical support across Beirut and Barja, allowing
             customers to get professional help without needing
             to transport their systems.
           </p>

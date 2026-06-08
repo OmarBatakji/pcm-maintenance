@@ -10,7 +10,7 @@ export default function Contact() {
         </h2>
 
         <p className="text-zinc-400 mt-4">
-          Contact us and we’ll come directly to you anywhere in Beirut.
+          Contact us and we’ll come directly to you anywhere in Beirut and Barja.
         </p>
 
         <a
