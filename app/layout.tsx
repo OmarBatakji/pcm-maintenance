@@ -14,13 +14,13 @@ const geistMono = Geist_Mono({
 
 // export const metadata: Metadata = {
 //   title: "PCM Maintenance",
-//   description: "Professional PC & Laptop maintenance services at your doorstep in Beirut.",
+//   description: "Professional PC & Laptop maintenance services at your doorstep in Beirut and Barja.",
 // };
 
 export const metadata = {
-  title: "PCM Maintenance | PC Repair in Beirut",
+  title: "PCM Maintenance | PC Repair in Beirut and Barja",
   description:
-    "Professional PC and laptop repair services in Beirut. We come directly to your location.",
+    "Professional PC and laptop repair services in Beirut and Barja. We come directly to your location.",
 };
 
 export default function RootLayout({
