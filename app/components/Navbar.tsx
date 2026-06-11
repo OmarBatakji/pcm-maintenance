@@ -13,14 +13,14 @@ export default function Navbar() {
           <a href="#services" className="hover:text-white">
             Services
           </a>
-          <a href="#contact" className="hover:text-white">
-            Contact
+          <a href="#about" className="hover:text-white">
+            About
           </a>
           <a href="#pricing" className="hover:text-white">
             Pricing
           </a>
-          <a href="#about" className="hover:text-white">
-            About
+          <a href="#contact" className="hover:text-white">
+            Contact
           </a>
         </div>
       </div>
