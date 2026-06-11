@@ -7,15 +7,14 @@ export default function Navbar() {
         </h1>
 
         <div className="hidden md:flex gap-8 text-zinc-300">
+          <a href="#hero" className="hover:text-white">
+            Home
+          </a>
           <a href="#services" className="hover:text-white">
             Services
           </a>
-
           <a href="#contact" className="hover:text-white">
             Contact
-          </a>
-          <a href="#hero" className="hover:text-white">
-            Home
           </a>
           <a href="#pricing" className="hover:text-white">
             Pricing

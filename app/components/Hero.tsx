@@ -4,7 +4,8 @@ import { motion } from "framer-motion";
 
 export default function Hero() {
   return (
-    <section className="min-h-screen bg-linear-to-b from-blue-950 via-zinc-950 to-blue-950 text-white flex items-center">
+    <section id="hero"
+    className="min-h-screen bg-linear-to-b from-blue-950 via-zinc-950 to-blue-950 text-white flex items-center">
       <div className="max-w-7xl mx-auto px-6 grid lg:grid-cols-2 gap-12 items-center">
         <div>
           <motion.h1

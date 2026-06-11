@@ -27,7 +27,8 @@ const pricing = [
 
 export default function Pricing() {
   return (
-    <section className="bg-zinc-950 text-white py-24">
+    <section id="pricing"
+    className="bg-zinc-950 text-white py-24">
       <div className="max-w-4xl mx-auto px-6">
         <h2 className="text-4xl font-bold mb-12 text-center">
           Estimated Pricing
