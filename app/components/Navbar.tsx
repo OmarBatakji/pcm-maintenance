@@ -14,6 +14,15 @@ export default function Navbar() {
           <a href="#contact" className="hover:text-white">
             Contact
           </a>
+          <a href="#hero" className="hover:text-white">
+            Home
+          </a>
+          <a href="#pricing" className="hover:text-white">
+            Pricing
+          </a>
+          <a href="#about" className="hover:text-white">
+            About
+          </a>
         </div>
       </div>
     </nav>
