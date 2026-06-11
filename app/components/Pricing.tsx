@@ -19,6 +19,10 @@ const pricing = [
     service: "Custom PC Building",
     price: "$25+",
   },
+  {
+    service: "Delivery Charge",
+    price: "$5+",
+  },
 ];
 
 export default function Pricing() {
